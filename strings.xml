@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Glook User</string>
+
+    <!-- OnBoard Screen. -->
+
+    <string name="ob_header1">SCHEULING</string>
+    <string name="ob_header2">NO HIDDEN CHARGES OR FEES</string>
+    <string name="ob_header3">GET STARTED WITH GLOOK</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">Wonep converts international calls to local calls without WiFi or data</string>
+    <string name="ob_desc2">If the person you’re calling also has Wonep the call will be entirely free</string>
+    <string name="ob_desc3">We have a very small charge for non-Wonep calls to mobiles or landlines</string>
+    <string name="title_activity_vendor_home">GLOOK</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Glook Vendor</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
